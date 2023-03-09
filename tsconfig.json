@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+      "skipLibCheck": false,
+      "preserveConstEnums": true,
+      "sourceMap": true,
+      "allowJs": true,
+      "target": "es5",
+      "outDir": ".build",
+      "moduleResolution": "node",
+      "emitDecoratorMetadata": true,
+      "experimentalDecorators": true,
+      "allowSyntheticDefaultImports": true,
+      "resolveJsonModule": true,
+      "lib": ["es2015"],
+      "baseUrl": ".",
+      "rootDir": "./",
+    }, 
+  }
+  
